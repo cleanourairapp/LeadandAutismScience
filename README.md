@@ -1,7 +1,7 @@
 # LeadandAutismScience
 Scientific Papers which may suggest a link between Autism and Lead exposure in Children. More research is needed on direct causation, but they most certainly do show a strong correlation between childhood Lead Exposure and the occurrence of Autism. 
 
-To quote the authors of the study [Ref. 1]: "The study showed a significant elevation in the levels of toxic metals Lead and Mercury in both hair and nail samples of autistic children when compared to healthy control group."
+To quote the authors of the study in [Ref. 1]: "The study showed a significant elevation in the levels of toxic metals Lead and Mercury in both hair and nail samples of autistic children when compared to healthy control group."
 
 While a direct link between Lead Exposure and Autism is still being studied, we can most certainly say that these works found a positive correlation between childhood Lead levels and the occurence of Autism and/or Autism-related symptoms. And it has most certainly been proven that Lead has a number of other harmful effects, such as harming mental development in children. The fact that lead-emmitting private planes are allowed to fly over our heads is an abomination.
 
