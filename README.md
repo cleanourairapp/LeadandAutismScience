@@ -9,9 +9,9 @@ While a direct link between Lead Exposure and Autism is still being studied, we 
 [1]Level of trace elements (copper, zinc, magnesium and selenium) and toxic elements (lead and mercury) in the hair and nail of children with autism, https://pubmed.ncbi.nlm.nih.gov/20625937/
 (Study suggesting correlation between higher blood levels of toxins such as Lead, Mercury and Copper and a greater severity in the degree of Autism. Also the quoted study, phrasing of quote slightly modifies to be easier for common reader to interpret, with p-value being removed and periodic table notation being changed to common names)
 
-[2] According to 2012 FAA Data, Page 8 of FAA UAT ARC Final Report Part I Body: Unleaded AVGAS Findings & Recommendations, https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/Avgas.ARC.RR.2.17.12.pdf
+[2](Government data) According to 2012 FAA Data, Page 8 of FAA UAT ARC Final Report Part I Body: Unleaded AVGAS Findings & Recommendations, https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/Avgas.ARC.RR.2.17.12.pdf
 
-[3]Leaded Fuel Is a Thing of the Past—Unless You Fly a Private Plane, https://www.motherjones.com/politics/2013/01/private-planes-still-use-leaded-gasoline/
+[3](Popular media article, perhaps preferable for many readers) Leaded Fuel Is a Thing of the Past—Unless You Fly a Private Plane, https://www.motherjones.com/politics/2013/01/private-planes-still-use-leaded-gasoline/
 
 [4]Low-level lead exposure and autistic behaviors in school-age children, https://pubmed.ncbi.nlm.nih.gov/26877220/
 
