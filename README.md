@@ -3,7 +3,8 @@ Scientific Papers which may suggest a link between Autism and Lead exposure in C
 
 To quote the authors of the study [Ref. 1]: "The study showed a significant elevation in the levels of toxic metals Lead and Mercury in both hair and nail samples of autistic children when compared to healthy control group."
 
-While a direct link between Lead Exposure and Autism is still being studied, we can most certainly say that these works found a direct link b
+While a direct link between Lead Exposure and Autism is still being studied, we can most certainly say that these works found a positive correlation between childhood Lead levels and the occurence of Autism and/or Autism-related symptoms. And it has most certainly been proven that Lead has a number of other harmful effects, such as harming mental development in children. The fact that lead-emmitting private planes are allowed to fly over our heads is an abomination.
+
 
 [1]Level of trace elements (copper, zinc, magnesium and selenium) and toxic elements (lead and mercury) in the hair and nail of children with autism, https://pubmed.ncbi.nlm.nih.gov/20625937/
 (Study suggesting correlation between higher blood levels of toxins such as Lead, Mercury and Copper and a greater severity in the degree of Autism. Also the quoted study, phrasing of quote slightly modifies to be easier for common reader to interpret, with p-value being removed and periodic table notation being changed to common names)
